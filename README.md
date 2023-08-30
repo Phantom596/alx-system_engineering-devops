@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell basics
+My project on shell basics
